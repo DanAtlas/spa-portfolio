@@ -5,7 +5,7 @@ import man from '../img/man.svg'
 const Home = (props) => (
   <div className="main-content home-content">
     <span className="profile">
-      Hello there!
+      Hello there! Test 123
       <br/>I'm&nbsp;
       <Jelly>
         {hovered => 
