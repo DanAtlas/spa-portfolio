@@ -1,7 +1,7 @@
 {
-  "name": "danatlas",
+  "name": "danatlas.github.io",
   "version": "0.1.0",
-  "homepage": "https://danatlas.kazstroy.kz",
+  "homepage": "https://danatlas.github.io",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.1.1",

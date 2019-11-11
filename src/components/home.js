@@ -4,7 +4,7 @@ import man from '../img/man.svg'
 
 const Home = (props) => (
   <div className="main-content home-content">
-    <span className="profile">
+    <span className="profile wow zoomIn" data-wow-delay=".5s">
       Hello there!
       <br/>I'm&nbsp;
       <Jelly>
