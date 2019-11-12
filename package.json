@@ -1,10 +1,9 @@
 {
-  "name": "danatlas.github.io",
+  "name": "danatlas",
   "version": "0.1.0",
   "homepage": "https://danatlas.github.io",
   "private": true,
   "dependencies": {
-    "gh-pages": "^2.1.1",
     "npm-install-peers": "^1.2.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
@@ -31,6 +30,7 @@
   ],
   "devDependencies": {
     "@babel/helper-regex": "^7.0.0",
+    "gh-pages": "^2.1.1",
     "react-dev-utils": "^8.0.0"
   }
 }
