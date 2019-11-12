@@ -7,7 +7,7 @@ import Home from './components/home';
 import Works from './components/works';
 import About from './components/about';
 import Skills from './components/skills';
-import WOW from 'wow.js';
+import WOW from 'wow';
 
 class App extends Component {
   componentDidMount() {
