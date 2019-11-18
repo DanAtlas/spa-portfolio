@@ -1,15 +1,15 @@
 {
-  "main.css": "/react-spa/static/css/main.df9f09b5.chunk.css",
-  "main.js": "/react-spa/static/js/main.bf9e47d7.chunk.js",
-  "main.js.map": "/react-spa/static/js/main.bf9e47d7.chunk.js.map",
-  "runtime~main.js": "/react-spa/static/js/runtime~main.97fb65bb.js",
-  "runtime~main.js.map": "/react-spa/static/js/runtime~main.97fb65bb.js.map",
-  "static/js/2.60eec839.chunk.js": "/react-spa/static/js/2.60eec839.chunk.js",
-  "static/js/2.60eec839.chunk.js.map": "/react-spa/static/js/2.60eec839.chunk.js.map",
-  "index.html": "/react-spa/index.html",
-  "precache-manifest.df94ebec5bce6acfe27ee50131d737c3.js": "/react-spa/precache-manifest.df94ebec5bce6acfe27ee50131d737c3.js",
-  "service-worker.js": "/react-spa/service-worker.js",
-  "static/css/main.df9f09b5.chunk.css.map": "/react-spa/static/css/main.df9f09b5.chunk.css.map",
-  "static/media/App.css": "/react-spa/static/media/Trees.29c77d41.svg",
-  "static/media/man.svg": "/react-spa/static/media/man.d26e8344.svg"
+  "main.css": "/spa-portfolio/static/css/main.da5498d0.chunk.css",
+  "main.js": "/spa-portfolio/static/js/main.a2b080d4.chunk.js",
+  "main.js.map": "/spa-portfolio/static/js/main.a2b080d4.chunk.js.map",
+  "runtime~main.js": "/spa-portfolio/static/js/runtime~main.ccec7772.js",
+  "runtime~main.js.map": "/spa-portfolio/static/js/runtime~main.ccec7772.js.map",
+  "static/js/2.60eec839.chunk.js": "/spa-portfolio/static/js/2.60eec839.chunk.js",
+  "static/js/2.60eec839.chunk.js.map": "/spa-portfolio/static/js/2.60eec839.chunk.js.map",
+  "index.html": "/spa-portfolio/index.html",
+  "precache-manifest.82dbe1ce8226dd45d4879c5d81f9fbdb.js": "/spa-portfolio/precache-manifest.82dbe1ce8226dd45d4879c5d81f9fbdb.js",
+  "service-worker.js": "/spa-portfolio/service-worker.js",
+  "static/css/main.da5498d0.chunk.css.map": "/spa-portfolio/static/css/main.da5498d0.chunk.css.map",
+  "static/media/App.css": "/spa-portfolio/static/media/Trees.29c77d41.svg",
+  "static/media/man.svg": "/spa-portfolio/static/media/man.d26e8344.svg"
 }
