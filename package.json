@@ -1,7 +1,7 @@
 {
   "name": "danatlas",
   "version": "0.1.0",
-  "homepage": "https://danatlas.github.io",
+  "homepage": "https://danatlas.github.io/react-spa/",
   "private": true,
   "dependencies": {
     "npm-install-peers": "^1.2.1",
