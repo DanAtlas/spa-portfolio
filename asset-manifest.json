@@ -1,15 +1,15 @@
 {
-  "main.css": "/spa-portfolio/static/css/main.da5498d0.chunk.css",
-  "main.js": "/spa-portfolio/static/js/main.a2b080d4.chunk.js",
-  "main.js.map": "/spa-portfolio/static/js/main.a2b080d4.chunk.js.map",
+  "main.css": "/spa-portfolio/static/css/main.252ef725.chunk.css",
+  "main.js": "/spa-portfolio/static/js/main.923ea286.chunk.js",
+  "main.js.map": "/spa-portfolio/static/js/main.923ea286.chunk.js.map",
   "runtime~main.js": "/spa-portfolio/static/js/runtime~main.ccec7772.js",
   "runtime~main.js.map": "/spa-portfolio/static/js/runtime~main.ccec7772.js.map",
   "static/js/2.60eec839.chunk.js": "/spa-portfolio/static/js/2.60eec839.chunk.js",
   "static/js/2.60eec839.chunk.js.map": "/spa-portfolio/static/js/2.60eec839.chunk.js.map",
   "index.html": "/spa-portfolio/index.html",
-  "precache-manifest.d5bd62c0ba1703fef18a7f3eeace1fec.js": "/spa-portfolio/precache-manifest.d5bd62c0ba1703fef18a7f3eeace1fec.js",
+  "precache-manifest.08b16a059facfc2abef8ddc5b92232d3.js": "/spa-portfolio/precache-manifest.08b16a059facfc2abef8ddc5b92232d3.js",
   "service-worker.js": "/spa-portfolio/service-worker.js",
-  "static/css/main.da5498d0.chunk.css.map": "/spa-portfolio/static/css/main.da5498d0.chunk.css.map",
+  "static/css/main.252ef725.chunk.css.map": "/spa-portfolio/static/css/main.252ef725.chunk.css.map",
   "static/media/App.css": "/spa-portfolio/static/media/Trees.29c77d41.svg",
   "static/media/man.svg": "/spa-portfolio/static/media/man.d26e8344.svg"
 }
