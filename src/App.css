@@ -760,7 +760,7 @@ nav .nav-list li:nth-child(5)
     visibility: visible;
   }
   nav .nav-socials {
-    display: none;
+    right: 60px;
   }
   /* menu */
   .menu {

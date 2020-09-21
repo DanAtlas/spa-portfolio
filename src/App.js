@@ -15,6 +15,7 @@ class App extends Component {
     wow.init();
   }
   
+  // HashRouter чекни
   render() {
     return (
       <BrowserRouter>
@@ -26,7 +27,7 @@ class App extends Component {
                 <p className="tag-first">&lt;<span>html</span>&gt;</p>
                 <p className="tag-second">&lt;<span>body</span>&gt;</p>
               </div>
-              <Route exact path="/" render={() => <Home />} />
+              <Route exact path="/spa-portfolio/" render={() => <Home />} />
               <Route path="/about"  render={() => <About title="About me"/>} />
               <Route path="/skills" render={() => <Skills title="Skills"/>} />
               <Route path="/works" render={() => <Works title="Works"/>} />

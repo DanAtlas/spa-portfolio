@@ -11,7 +11,7 @@ class Navbar extends React.Component {
 	render(){
 		return(
 			<nav>
-				<NavLink className="logo wow fadeInDown" data-wow-duration="1s" exact to="/">
+				<NavLink className="logo wow fadeInDown" data-wow-duration="1s" exact to="/spa-portfolio/">
 					<Jelly>
 						{hovered => 
 							<img className={hovered ?  "animated rubberBand" : ""} src={logo} alt="DA"/>
@@ -20,7 +20,7 @@ class Navbar extends React.Component {
 				</NavLink>
 				<ul className={ this.state.active? "nav-list nav-show": "nav-list" }>
 					<li className="wow fadeInLeft" data-wow-duration="1s">
-						<NavLink className="nav_link" exact to="/">
+						<NavLink className="nav_link" exact to="/spa-portfolio/">
 							<svg id='Capa_1' xmlns='http://www.w3.org/2000/svg' width='611.997' height='611.998' viewBox='0 0 611.997 611.998'>
 								<path d='M511.114,300.251c-9.94,0-17.638,7.663-17.638,17.651v241.105H368.401v-98.453c0-9.236-7.697-17.31-17.002-17.31h-90.435 c-9.948,0-17.96,8.073-17.96,17.31v98.453h-124.76v-233.1c0-9.306-7.69-17.036-17.638-17.036c-9.298,0-16.995,7.73-16.995,17.036 v250.752c0,9.305,7.697,17.036,16.995,17.036h160.358c9.298,0,16.995-7.731,16.995-17.036v-98.454h55.801v98.454 c0,9.305,7.697,17.036,17.639,17.036h159.715c9.299,0,16.995-7.731,16.995-17.036V317.903 C528.109,307.915,520.413,300.251,511.114,300.251z'
 								/>
@@ -78,8 +78,8 @@ class Navbar extends React.Component {
 						<Jelly>
 							{hovered => 
 								<div className={hovered ?  "animated rubberBand" : ""}>
-									<a href="https://vk.com/danatlas" target="_blank" rel="noopener noreferrer">
-										<i className="fab fa-vk"></i>
+									<a href="https://github.com/danatlas" target="_blank" rel="noopener noreferrer">
+										<i className="fab fa-github"></i>
 									</a>
 								</div>
 							}
@@ -91,17 +91,6 @@ class Navbar extends React.Component {
 								<div className={hovered ?  "animated rubberBand" : ""}>
 									<a href="https://t.me/danatlas" target="_blank" rel="noopener noreferrer">
 										<i className="fab fa-telegram-plane"></i>
-									</a>
-								</div>
-							}
-						</Jelly>
-					</li>
-					<li className="wow fadeInUp" data-wow-duration="400ms">
-						<Jelly>
-							{hovered => 
-								<div className={hovered ?  "animated rubberBand" : ""}>
-									<a href="https://github.com/danatlas" target="_blank" rel="noopener noreferrer">
-										<i className="fab fa-github"></i>
 									</a>
 								</div>
 							}
